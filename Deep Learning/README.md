@@ -105,10 +105,10 @@ This script:
 
 ---
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
 
-**Swapnil Halder**
-🔗 [LinkedIn](https://www.linkedin.com/in/swapnilhalder/)
+**Razorshi Prozzwal Talukder**
+🔗 [LinkedIn](https://www.linkedin.com/in/razorshi-talukder-141425198/)
 
 ---
 
