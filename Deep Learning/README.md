@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Assignment: MNIST Classification with Multiple Optimizers & Activations
+# 🧠 MNIST Classification with Multiple Optimizers & Activations
 
 This project implements a fully-connected neural network **from scratch using NumPy** for classifying handwritten digits from the **MNIST** dataset. The network is trained using various **activation functions** and **optimizers**, allowing a comparative analysis of their impact on performance.
 
